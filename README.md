@@ -41,5 +41,24 @@ b) Open Android Studio And Replace The Firebase Key with your key that you have 
 c) Build the gradle file and then run the project.
 
 ## Some Photos Of LogSwasth
-
+a) Login Page <br/><br/>
+<img src="https://user-images.githubusercontent.com/54055303/141536338-000cd672-a52f-4bb2-97e4-cc7c4fbd4e02.png" height="550" width="270"><br/><br/>
+b) Dark Mode <br/><br/>
+<img src="https://user-images.githubusercontent.com/54055303/141536548-b9d0c6fc-f564-4b62-aae6-1f58161afa6a.jpeg" height="550" width="270"><br/><br/>
+c) MultiLanguage <br/><br/>
+<img src="https://user-images.githubusercontent.com/54055303/141536724-de994b0e-46f1-46f8-aa00-5cfebf239c84.jpeg" height="550" width="270" >
+<img src="https://user-images.githubusercontent.com/54055303/141536741-8676b81d-b324-4afd-9a2d-53bdd8ffc3f7.jpeg" height="550" width="270">
+<br/><br/>
+d) Main Page <br/><br/>
+<img src="https://user-images.githubusercontent.com/54055303/141537104-f0a0bee3-421f-4b54-abbb-f148248671e6.jpeg" height="550" width="270"><br/><br/>
+e) Register Villagers <br/><br/>
+<img src="https://user-images.githubusercontent.com/54055303/141537213-5d83696c-1de2-4e8c-9b9c-96c0f8bd1c86.jpeg" height="550" width="270" >
+<img src="https://user-images.githubusercontent.com/54055303/141537214-85bc4fb5-8722-4b0c-be87-b25e97cac354.jpeg" height="550" width="270">
+<br/><br/>
+f) Analysis Window <br/><br/>
+<img src="https://user-images.githubusercontent.com/54055303/141537379-ca2f182b-de68-4e5b-be2a-d7b58e1579d1.jpeg" height="550" width="270"><br/><br/>
+g) Numerical Analysis <br/><br/>
+<img src="https://user-images.githubusercontent.com/54055303/141537374-11ad6887-eb64-4f12-ac0d-877a79c5532e.jpeg" height="550" width="270"><br/><br/>
+h) Graphical Visualizatiob<br/><br/>
+<img src="https://user-images.githubusercontent.com/54055303/141537377-da1eeab1-af4d-4aad-a1cf-c591a23ce777.jpeg" height="550" width="270"><br/><br/>
 
