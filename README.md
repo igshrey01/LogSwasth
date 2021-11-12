@@ -60,5 +60,4 @@ f) Analysis Window <br/><br/>
 g) Numerical Analysis <br/><br/>
 <img src="https://user-images.githubusercontent.com/54055303/141537374-11ad6887-eb64-4f12-ac0d-877a79c5532e.jpeg" height="550" width="270"><br/><br/>
 h) Graphical Visualizatiob<br/><br/>
-<img src="https://user-images.githubusercontent.com/54055303/141537377-da1eeab1-af4d-4aad-a1cf-c591a23ce777.jpeg" height="550" width="270"><br/><br/>
-
+<img src="https://user-images.githubusercontent.com/54055303/141537642-23c384b0-9ebf-4bd0-9fef-c9a2cfaa5b68.jpeg" height="550" width="270"><br/><br/>
