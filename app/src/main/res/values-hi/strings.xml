@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LogSwasth</string>
+    <string name="welcome">लॉगस्वाथ में आपका स्वागत है</string>
+    <string name="email">ईमेल</string>
+    <string name="password">पासवर्ड</string>
+    <string name="login">लॉग इन करें</string>
+    <string name="changeLang">भाषा बदलें</string>
+    <string name="reset">पासवर्ड रीसेट</string>
+    <string name="enterEmail">ईमेल दर्ज करें</string>
+    <string name="enterPassword">पासवर्ड दर्ज करें</string>
+    <string name="registerVillager">ग्रामीणों का पंजीकरण करें</string>
+    <string name="editVillager">ग्रामीण विवरण संपादित करें</string>
+    <string name="viewAnalysed">विश्लेषण डेटा देखें</string>
+    <string name="enterAadhar">आधार नंबर दर्ज करें</string>
+    <string name="enterAge">उम्र दर्ज करें</string>
+    <string name="highestEd">उच्चतम शिक्षा योग्यता का चयन करें</string>
+    <string name="state">राज्य*</string>
+    <string name="district">जिला*</string>
+    <string name="proceedTo">अगले पेज पर जाएं</string>
+    <string name="selectIncome">आय चुनें *</string>
+    <string name="selectCaste">जाति चुनें *</string>
+    <string name="selectDisease">रोग का चयन करें *</string>
+    <string name="submitbt">प्रस्तुत</string>
+    <string name="aadharnum">आधार संख्या :</string>
+    <string name="age">उम्र</string>
+    <string name="updataData">डेटाबेस अद्यतन करें</string>
+    <string name="para">विश्लेषण करने के लिए पैरामीटर का चयन करें</string>
+    <string name="numerical">संख्यात्मक विश्लेषण दिखाएं</string>
+    <string name="graphical">ग्राफिकल विज़ुअलाइज़ेशन देखें</string>
+    <string name="agedis">उम्र बाटना</string>
+    <string name="disOfPop">आयु में जनसंख्या का वितरण</string>
+    <string name="below18">18 के नीचे</string>
+    <string name="bet18to65">18 से 65 के बीच</string>
+    <string name="above65">65 से ऊपर</string>
+
+    <string name="incomeran">आय सीमा</string>
+    <string name="incomedis">जनसंख्या से अधिक आय वितरण</string>
+    <string name="below10">10000 के नीचे</string>
+    <string name="bet1">10000-50000 के बीच</string>
+    <string name="bet2">50000-150000 के बीच</string>
+    <string name="above50">150000 से ऊपर</string>
+
+    <string name="caste">जाति</string>
+    <string name="castedis">जनसंख्या से अधिक जाति का वितरण</string>
+
+    <string name="edu">शैक्षणिक योग्यता</string>
+    <string name="edudis">शिक्षा योग्यता रखने वाले लोगों की संख्या</string>
+    <string name="hsc">हायर सेकेंडरी सर्टिफिकेट</string>
+    <string name="ssc">वरिष्ठ माध्यमिक प्रमाणपत्र</string>
+    <string name="und">स्नातक</string>
+    <string name="post">पोस्ट ग्रेजुएशन</string>
+    <string name="other">अन्य</string>
+    <string name="logout">लॉग आउट</string>
+    <string name="general">सामान्य वर्ग</string>
+    <string name="sc">अनुसूचित जाति</string>
+    <string name="st">अनुसूचित जनजाति</string>
+    <string name="obc">अन्य पिछड़ा वर्ग</string>
+
+    <string name="dis">रोग</string>
+    <string name="disDist">पीड़ित लोगों की संख्या</string>
+    <string name="cd">हृदय रोग</string>
+    <string name="rd">सांस की बीमारियों</string>
+    <string name="id">आंतों के रोग</string>
+    <string name="nd">मस्तिष्क संबंधी विकार</string>
+    <string name="od">अन्य</string>
+
+    <string name="enterAll">सभी विवरण दर्ज करें</string>
+    <string name="loginsuccess">लॉगिन सफल !!</string>
+    <string name="loginunsuccess">लॉगिन असफल !!</string>
+    <string name="enterAadharnumb">आधार नंबर सही दर्ज करें</string>
+    <string name="enterCorrectAge">सही उम्र दर्ज करें</string>
+    <string name="updateCloud">डेटा सफलतापूर्वक क्लाउड पर अपडेट किया गया</string>
+    <string name="correctAadhar">आधार संख्या डेटाबेस में मौजूद है</string>
+    <string name="selectPara">पैरामीटर का चयन करें</string>
+    <string name="detailCorrect">विवरण सही दर्ज करें</string>
+    <string name="resetLink">पासवर्ड रीसेट करें लिंक भेजा गया</string>
+    <string name="noresetLink">पासवर्ड रीसेट करें लिंक नहीं भेजा गया</string>
+    <string name="signin">साइनइन करने में</string>
+</resources>

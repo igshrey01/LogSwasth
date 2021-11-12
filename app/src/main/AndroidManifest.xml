@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.logswasthfirebase">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="LogSwasth"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.LogSwasthFirebase">
+        <activity android:name=".NumericalAnalysisAge" />
+        <activity android:name=".NumericalAnalysisEducation" />
+        <activity android:name=".NumericalAnalysisCaste" />
+        <activity android:name=".Numerical_Analysis_Income" />
+        <activity android:name=".NumericalAnalysis" />
+        <activity android:name=".AnalysisActivity" />
+        <activity android:name=".EditVillager3" />
+        <activity android:name=".EditVillager2" />
+        <activity android:name=".EditVillagerDetails" />
+        <activity android:name=".RegisterVillager3" />
+        <activity android:name=".RegisterVillager2" />
+        <activity android:name=".ForgotActivity" />
+        <activity android:name=".HomePage1" />
+        <activity android:name=".AgeDist" />
+        <activity android:name=".Educationdist" />
+        <activity android:name=".Incomeact" />
+        <activity android:name=".Caste" />
+        <activity android:name=".DiseaseDist" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

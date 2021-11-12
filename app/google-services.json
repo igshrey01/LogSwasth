@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "540121758073",
+    "project_id": "logswath",
+    "storage_bucket": "logswath.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540121758073:android:4c1b94659b79b3e60897a8",
+        "android_client_info": {
+          "package_name": "com.example.logswasthfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540121758073-bj0cab06uhgslng66iprvqd9tdvbi6ua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaFfgoK2GmHv5FCsBWfgxqG60as7H2HKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540121758073-bj0cab06uhgslng66iprvqd9tdvbi6ua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

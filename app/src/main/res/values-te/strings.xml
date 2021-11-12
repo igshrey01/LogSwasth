@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LogSwasth</string>
+    <string name="welcome">స్వాగతం</string>
+    <string name="email">ఇమెయిల్</string>
+    <string name="password">పాస్వర్డ్</string>
+    <string name="login">ప్రవేశించండి</string>
+    <string name="reset">రహస్యపదాన్ని మార్చుకోండి</string>
+    <string name="changeLang">భాష మార్చు</string>
+    <string name="enterEmail">ఇమెయిల్ నమోదు చేయండి</string>
+    <string name="enterPassword">రహస్య సంకేతం తెలపండి</string>
+    <string name="registerVillager">గ్రామస్తులను నమోదు చేయండి</string>
+    <string name="editVillager">గ్రామస్థుల వివరాలను సవరించండి</string>
+
+    <string name="viewAnalysed">విశ్లేషించబడిన డేటాను వీక్షించండి</string>
+    <string name="enterAadhar">ఆధార్ నంబర్ నమోదు చేయండి</string>
+    <string name="enterAge">వయస్సు నమోదు చేయండి</string>
+    <string name="highestEd">అత్యధిక విద్య వర్గీకరణను ఎంచుకోండి</string>
+    <string name="state">రాష్ట్రం *</string>
+    <string name="district">జిల్లా *</string>
+    <string name="aadharnum">ఆధార్ నంబర్ :</string>
+    <string name="age">వయస్సు</string>
+    <string name="proceedTo">తదుపరి పేజీకి వెళ్లండి</string>
+    <string name="selectIncome">ఆదాయాన్ని ఎంచుకోండి *</string>
+    <string name="selectCaste">కులాన్ని ఎంచుకోండి *</string>
+    <string name="selectDisease">వ్యాధిని ఎంచుకోండి *</string>
+    <string name="submitbt">సమర్పించండి</string>
+    <string name="updataData">డేటాబేస్ అప్‌డేట్ చేయండి</string>
+    <string name="para">విశ్లేషించాల్సిన పరామితిని ఎంచుకోండి</string>
+    <string name="numerical">సంఖ్యా విశ్లేషణను చూపు</string>
+    <string name="graphical">గ్రాఫికల్ విజువలైజేషన్ చూడండి</string>
+    <string name="agedis">వయస్సు పంపిణీ</string>
+    <string name="disOfPop">వయస్సుపైన జనాభా పంపిణీ</string>
+    <string name="below18">18 క్రింద</string>
+    <string name="bet18to65">18 నుండి 65 మధ్య</string>
+    <string name="above65">65 పైన</string>
+
+    <string name="incomeran">ఆదాయ పరిధి</string>
+    <string name="incomedis">జనాభాపై ఆదాయ పంపిణీ</string>
+    <string name="below10">10000 కంటే తక్కువ</string>
+    <string name="bet1">10000-50000 మధ్య</string>
+    <string name="bet2">50000-150000 మధ్య</string>
+    <string name="above50">150000 పైన</string>
+
+    <string name="caste">కులం</string>
+    <string name="castedis">జనాభాపై కులాల పంపిణీ</string>
+    <string name="edu">విద్యా అర్హత</string>
+    <string name="edudis">విద్యార్హత కలిగిన వ్యక్తుల సంఖ్య</string>
+    <string name="hsc">హయ్యర్ సెకండరీ సర్టిఫికేట్</string>
+    <string name="ssc">సీనియర్ సెకండరీ సర్టిఫికేట్</string>
+    <string name="und">అండర్ గ్రాడ్యుయేషన్</string>
+    <string name="post">పోస్ట్ గ్రాడ్యుయేషన్</string>
+    <string name="other">ఇతర</string>
+
+    <string name="general">జనరల్</string>
+    <string name="sc">షెడ్యూల్డ్ కులం</string>
+    <string name="st">షెడ్యూల్డ్ తెగలు</string>
+    <string name="obc">ఇతర వెనుకబడిన తరగతులు</string>
+
+    <string name="dis">వ్యాధి</string>
+    <string name="disDist">బాధపడుతున్న వ్యక్తుల సంఖ్య</string>
+    <string name="cd">హృదయ సంబంధ వ్యాధులు</string>
+    <string name="rd">శ్వాసకోశ వ్యాధులు</string>
+    <string name="id">ప్రేగు సంబంధిత వ్యాధులు</string>
+    <string name="nd">న్యూరోలాజికల్ డిజార్డర్స్</string>
+    <string name="od">ఇతరులు</string>
+
+
+    <string name="enterAll">అన్ని వివరాలను నమోదు చేయండి</string>
+    <string name="loginsuccess">లాగిన్ విజయవంతమైంది !!</string>
+    <string name="loginunsuccess">లాగిన్ విజయవంతం కాలేదు !!</string>
+    <string name="enterAadharnumb">ఆధార్ నంబర్‌ను సరిగ్గా నమోదు చేయండి</string>
+    <string name="enterCorrectAge">సరైన వయస్సు నమోదు చేయండి</string>
+    <string name="updateCloud">క్లౌడ్‌లో డేటా విజయవంతంగా నవీకరించబడింది</string>
+    <string name="correctAadhar">ఆధార్ నంబర్ డేటాబేస్‌లో ఉంది</string>
+    <string name="selectPara">పరామితిని ఎంచుకోండి</string>
+    <string name="detailCorrect">వివరాలను సరిగ్గా నమోదు చేయండి</string>
+    <string name="resetLink">పాస్‌వర్డ్ లింక్ రీసెట్ పంపబడింది</string>
+    <string name="noresetLink">రీసెట్ పాస్‌వర్డ్ లింక్ పంపబడలేదు</string>
+    <string name="signin">లోనికి ప్రవేశించు</string>
+    <string name="logout">లాగ్ అవుట్</string>
+</resources>

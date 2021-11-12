@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LogSwasth</string>
+
+    <string name="welcome">লগসওয়াথে স্বাগতম</string>
+    <string name="email">ইমেইল</string>
+    <string name="password">পাসওয়ার্ড</string>
+    <string name="login">প্রবেশ করুন</string>
+    <string name="reset">পাসওয়ার্ড রিসেট করুন</string>
+    <string name="changeLang">ভাষা পরিবর্তন করুন</string>
+    <string name="enterEmail">ইমেইল প্রদান করুন</string>
+    <string name="enterPassword">পাসওয়ার্ড লিখুন</string>
+    <string name="registerVillager">গ্রামবাসীদের নিবন্ধন করুন</string>
+    <string name="editVillager">গ্রামের বিবরণ সম্পাদনা করুন</string>
+    <string name="viewAnalysed">বিশ্লেষণকৃত ডেটা দেখুন</string>
+    <string name="enterAadhar">আধার নম্বর লিখুন</string>
+    <string name="enterAge">বয়স লিখুন</string>
+    <string name="highestEd">সর্বোচ্চ শিক্ষার শ্রেণিবিন্যাস নির্বাচন করুন</string>
+    <string name="state">রাষ্ট্র *</string>
+    <string name="district">জেলা *</string>
+    <string name="aadharnum">আধার নম্বর :</string>
+    <string name="age">বয়স</string>
+    <string name="proceedTo">পরবর্তী পৃষ্ঠায় এগিয়ে যান</string>
+    <string name="selectIncome">আয় নির্বাচন করুন *</string>
+    <string name="selectCaste">জাত নির্বাচন করুন *</string>
+    <string name="selectDisease">রোগ নির্বাচন করুন *</string>
+    <string name="submitbt">জমা দিন</string>
+    <string name="updataData">আপডেট ডাটাবেস</string>
+    <string name="para">বিশ্লেষণ করার জন্য প্যারামিটার নির্বাচন করুন</string>
+    <string name="numerical">সংখ্যাগত বিশ্লেষণ দেখান</string>
+    <string name="graphical">গ্রাফিকাল ভিজ্যুয়ালাইজেশন দেখুন</string>
+    <string name="agedis">বয়স বণ্টন</string>
+    <string name="disOfPop">বয়সের বেশি জনসংখ্যার বন্টন</string>
+    <string name="below18">18 এর নিচে</string>
+    <string name="bet18to65">18 থেকে 65 এর মধ্যে</string>
+    <string name="above65">65 এর উপরে</string>
+
+    <string name="incomeran">আয়ের পরিসর</string>
+    <string name="incomedis">জনসংখ্যার উপর আয় বিতরণ</string>
+    <string name="below10">10000 এর নিচে</string>
+    <string name="bet1">10000-50000 এর মধ্যে</string>
+    <string name="bet2">50000-150000 এর মধ্যে</string>
+    <string name="above50">150000 এর উপরে</string>
+
+    <string name="caste">জাত</string>
+    <string name="castedis">জনসংখ্যার উপর বর্ণের বণ্টন</string>
+    <string name="edu">শিক্ষাগত যোগ্যতা</string>
+    <string name="edudis">শিক্ষাগত যোগ্যতা সম্পন্ন লোকের সংখ্যা</string>
+    <string name="hsc">উচ্চ মাধ্যমিক সার্টিফিকেট</string>
+    <string name="ssc">সিনিয়র সেকেন্ডারি সার্টিফিকেট</string>
+    <string name="und">স্নাতক</string>
+    <string name="post">স্নাতকোত্তর</string>
+    <string name="other">অন্যান্য</string>
+
+    <string name="general">সাধারণ</string>
+    <string name="sc">তফসিলি জাতি</string>
+    <string name="st">তফসিলি উপজাতি</string>
+    <string name="obc">অন্যান্য অনগ্রসর শ্রেণী</string>
+
+    <string name="dis">রোগ</string>
+    <string name="disDist">ভুগছেন এমন লোকের সংখ্যা</string>
+    <string name="cd">কার্ডিওভাসকুলার রোগ</string>
+    <string name="rd">শ্বাসযন্ত্রের রোগ</string>
+    <string name="id">অন্ত্রের রোগ</string>
+    <string name="nd">স্নায়বিক রোগ</string>
+    <string name="od">অন্যান্য</string>
+
+
+    <string name="enterAll">সমস্ত বিবরণ লিখুন</string>
+    <string name="loginsuccess">লগইন সফল !!</string>
+    <string name="loginunsuccess">লগইন অসফল !!</string>
+    <string name="enterAadharnumb">সঠিকভাবে আধার নম্বর লিখুন</string>
+    <string name="enterCorrectAge">সঠিক বয়স লিখুন</string>
+    <string name="updateCloud">ক্লাউডে ডেটা সফলভাবে আপডেট করা হয়েছে</string>
+    <string name="correctAadhar">আধার নম্বর ডেটাবেসে উপস্থিত</string>
+    <string name="selectPara">প্যারামিটার নির্বাচন করুন</string>
+    <string name="detailCorrect">সঠিকভাবে বিস্তারিত লিখুন</string>
+    <string name="resetLink">রিসেট পাসওয়ার্ড লিঙ্ক পাঠানো হয়েছে</string>
+    <string name="noresetLink">পাসওয়ার্ড রিসেট লিঙ্ক পাঠানো হয়নি</string>
+    <string name="signin">সাইন ইন</string>
+    <string name="logout">প্রস্থান</string>
+</resources>
